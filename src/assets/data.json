@@ -1,0 +1,166 @@
+{
+  "turkish": {
+    "4.0": {
+      "name": "IPhone 4.0 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/Turkish-4.0-1.png",
+        "https://www.linkpicture.com/q/Turkish-4.0-2.png",
+        "https://www.linkpicture.com/q/Turkish-4.0-3.png",
+        "https://www.linkpicture.com/q/Turkish-4.0-4.png",
+        "https://www.linkpicture.com/q/Turkish-4.0-5.png"
+      ]
+    },
+    "4.7": {
+      "name": "IPhone 4.7 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/Turkish-4.7-1.png",
+        "https://www.linkpicture.com/q/Turkish-4.7-2.png",
+        "https://www.linkpicture.com/q/Turkish-4.7-3.png",
+        "https://www.linkpicture.com/q/Turkish-4.7-4.png",
+        "https://www.linkpicture.com/q/Turkish-4.7-5.png"
+      ]
+    },
+    "5.5": {
+      "name": "IPhone 5.5 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/Turkish-5.5-1.png",
+        "https://www.linkpicture.com/q/Turkish-5.5-2.png",
+        "https://www.linkpicture.com/q/Turkish-5.5-3.png",
+        "https://www.linkpicture.com/q/Turkish-5.5-4.png",
+        "https://www.linkpicture.com/q/Turkish-5.5-5.png"
+      ]
+    },
+    "5.8": {
+      "name": "IPhone 5.8 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/Turkish-5.8-1.png",
+        "https://www.linkpicture.com/q/Turkish-5.8-2.png",
+        "https://www.linkpicture.com/q/Turkish-5.8-3.png",
+        "https://www.linkpicture.com/q/Turkish-5.8-4.png",
+        "https://www.linkpicture.com/q/Turkish-5.8-5.png"
+      ]
+    },
+    "6.1": {
+      "name": "IPhone 6.1 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/Turkish-6.1-1_1.png",
+        "https://www.linkpicture.com/q/Turkish-6.1-2_1.png",
+        "https://www.linkpicture.com/q/Turkish-6.1-3_1.png",
+        "https://www.linkpicture.com/q/Turkish-6.1-4_1.png",
+        "https://www.linkpicture.com/q/Turkish-6.1-5_1.png"
+      ]
+    },
+    "6.5": {
+      "name": "IPhone 6.5 Display",
+      "screenshots": []
+    },
+    "6.7": {
+      "name": "IPhone 6.7 Display",
+      "screenshots": []
+    }
+  },
+
+  "english": {
+    "4.0": {
+      "name": "IPhone 4.0 Display",
+      "screenshots": []
+    },
+    "4.7": {
+      "name": "IPhone 4.7 Display",
+      "screenshots": []
+    },
+    "5.5": {
+      "name": "IPhone 5.5 Display",
+      "screenshots": []
+    },
+    "5.8": {
+      "name": "IPhone 5.8 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/English-5.8-1.png",
+        "https://www.linkpicture.com/q/English-5.8-2.png",
+        "https://www.linkpicture.com/q/English-5.8-3.png",
+        "https://www.linkpicture.com/q/English-5.8-4.png",
+        "https://www.linkpicture.com/q/English-5.8-5.png"
+      ]
+    },
+    "6.1": {
+      "name": "IPhone 6.1 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/English-6.1-1.png",
+        "https://www.linkpicture.com/q/English-6.1-2.png",
+        "https://www.linkpicture.com/q/English-6.1-3.png",
+        "https://www.linkpicture.com/q/English-6.1-4.png",
+        "https://www.linkpicture.com/q/English-6.1-5.png"
+      ]
+    },
+    "6.5": {
+      "name": "IPhone 6.5 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/English-6.5-1.png",
+        "https://www.linkpicture.com/q/English-6.5-2.png",
+        "https://www.linkpicture.com/q/English-6.5-3.png",
+        "https://www.linkpicture.com/q/English-6.5-4.png",
+        "https://www.linkpicture.com/q/English-6.5-5.png"
+      ]
+    },
+    "6.7": {
+      "name": "IPhone 6.7 Display",
+      "screenshots": []
+    }
+  },
+
+  "german": {
+    "4.0": {
+      "name": "IPhone 4.0 Display",
+      "screenshots": []
+    },
+    "4.7": {
+      "name": "IPhone 4.7 Display",
+      "screenshots": []
+    },
+    "5.5": {
+      "name": "IPhone 5.5 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/German-5.5-1.png",
+        "https://www.linkpicture.com/q/German-5.5-2.png",
+        "https://www.linkpicture.com/q/German-5.5-3.png",
+        "https://www.linkpicture.com/q/German-5.5-4.png",
+        "https://www.linkpicture.com/q/German-5.5-5.png"
+      ]
+    },
+    "5.8": {
+      "name": "IPhone 5.8 Display",
+      "screenshots": []
+    },
+    "6.1": {
+      "name": "IPhone 6.1 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/German-6.1-1.png",
+        "https://www.linkpicture.com/q/German-6.1-2.png",
+        "https://www.linkpicture.com/q/German-6.1-3.png",
+        "https://www.linkpicture.com/q/German-6.1-4.png",
+        "https://www.linkpicture.com/q/German-6.1-5.png"
+      ]
+    },
+    "6.5": {
+      "name": "IPhone 6.5 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/German-6.5-1.png",
+        "https://www.linkpicture.com/q/German-6.5-2.png",
+        "https://www.linkpicture.com/q/German-6.5-3.png",
+        "https://www.linkpicture.com/q/German-6.5-4.png",
+        "https://www.linkpicture.com/q/German-6.5-5.png"
+      ]
+    },
+    "6.7": {
+      "name": "IPhone 6.7 Display",
+      "screenshots": [
+        "https://www.linkpicture.com/q/German-6.7-1.png",
+        "https://www.linkpicture.com/q/German-6.7-2.png",
+        "https://www.linkpicture.com/q/German-6.7-3.png",
+        "https://www.linkpicture.com/q/German-6.7-4.png",
+        "https://www.linkpicture.com/q/German-6.7-5.png"
+      ]
+    }
+  }
+}
