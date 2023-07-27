@@ -37,7 +37,7 @@ const CustomAccordion = (props) => {
           }}
         >
           {props.screenshots.map((val, index) => {
-            return <img key={index} src={val} />;
+            return <img key={index} src={val} alt={"yok"} />;
           })}
         </Box>
       </AccordionDetails>
